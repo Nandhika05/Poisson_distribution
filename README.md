@@ -1,6 +1,5 @@
-                                                                                                                                                                         NAME: NANDHIKA P
-                                                                                                                                                                         REGNO:212223040125
-
+                                                        NAME: NANDHIKA P
+                                                        REGNO:212223040125                                                                                                                                 
 # EX-2 : Fitting Poisson  distribution
 # Aim : 
 
